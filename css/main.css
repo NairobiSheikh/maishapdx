@@ -276,6 +276,10 @@ img{
   margin-bottom: var(--mb-3);
 }
 
+.catering--list{
+  text-decoration: none;
+}
+
 .catering__img{
   width: 280px;
   border-radius: .5rem;
